@@ -28,20 +28,20 @@
       <div class="col-lg-3 box1 animated rollIn   img-fluid  rounded "><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCPEaGdNn4iJvBKQKQgoVEsIVb4bG2GMInF6J30j8BjaCc91bE"  height="300px" width="250px"></div>
       <div class="col-lg-3 box2 animated zoomIn rounded img-fluid"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoFmQCHidzxkzlncN_C8ok2-hfWqsNraA4KNqaEEONffuWhRloBw" height="300px" width="250px"> ></div>
       
-      <div class="col-lg-3 box3 animated rollIn  rounded img-fluid"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVoxURElipCWBycUuYb6edN2tQFfgqkB7XUJpNLAIZTIg5tZyKw"  height="300px" width="250px"></div>
+      <div class="col-lg-3 box3 animated rollIn  rounded img-fluid"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVoxURElipCWBycUuYb6edN2tQFfgqkB7XUJpNLAIZTIg5tZyKw"  height="300px" width="27px"></div>
 
       <div class="col-lg-3 box4  animated rotateIn  rounded img-fluid"><img src="https://www.rishikulvidyapeeth.edu.in/sites/default/files/co-curricular_banner.jpg" height="300px" width="250px"></div>
     </div>
 
     <br>
-    <div class="card bg-light" style="font-size: 28px; ">
+    <div class="card bg-light" style="font-size: 35px; ">
     <div class="card-body card-text text-primary animated swing">
       <h1 class="card-title text-info">CULTURAL ACTIVITIES</h1>
 Co-curricular activities are the true and practical experiences received by students. To a greater extent, the theoretical knowledge gets strengthened when a relevant co-curricular activity is organized related to the content taught in the classroom. Intellectual aspects of personality are solely accomplished by Classroom, while aesthetic development, character building, spiritual growth, physical growth, moral values, creativity, etc. are supported by co-curricular activities. Frankness and clarity in language and personality is supported by these activities. It helps to develop co-ordination, adjustment, speech fluency, extempore expressions, etc. among the students. 
 
 <br><br>
 
-<div class="embed-responsive embed-responsive-16by9">
+<div class="embed-responsive embed-responsive-17by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qbsC8aZdhKg?list=PLv8MLip-SAoc28J7RpUoXvGzvkXliE--W" allowfullscreen></iframe>
 </div>
     <!-- Optional JavaScript -->
